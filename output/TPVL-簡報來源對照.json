@@ -1,0 +1,258 @@
+{
+  "title": "第一次看 TPVL 就上手",
+  "format": "standalone HTML",
+  "as_of": "2026-11-22",
+  "season": "2026-27",
+  "slide_count": 17,
+  "html_sha256": "026bd9924a60689962592856940461ab33003a6b2136a209401f8b08335a84cb",
+  "slides": [
+    {
+      "number": 1,
+      "title": "第一次看 TPVL 就上手",
+      "wiki_pages": [
+        "index.md"
+      ],
+      "source_ids": []
+    },
+    {
+      "number": 2,
+      "title": "看完後，你能回答三個問題",
+      "wiki_pages": [
+        "index.md",
+        "teams/index.md",
+        "rules/basics.md",
+        "events/guide.md"
+      ],
+      "source_ids": [
+        "S003",
+        "S004",
+        "S005",
+        "S006",
+        "S007",
+        "S008",
+        "S010"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "TPVL 與球隊的分工",
+      "wiki_pages": [
+        "league/about.md"
+      ],
+      "source_ids": [
+        "S001"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "2026-27 賽季的五支球隊",
+      "wiki_pages": [
+        "teams/index.md"
+      ],
+      "source_ids": [
+        "S003",
+        "S004",
+        "S005",
+        "S006",
+        "S007"
+      ]
+    },
+    {
+      "number": 5,
+      "title": "球隊也有教練與支援團隊",
+      "wiki_pages": [
+        "people/coaches.md"
+      ],
+      "source_ids": [
+        "S003",
+        "S004",
+        "S005",
+        "S006",
+        "S007"
+      ]
+    },
+    {
+      "number": 6,
+      "title": "人物查詢示例：高偉誠",
+      "wiki_pages": [
+        "people/kao-wei-cheng.md"
+      ],
+      "source_ids": [
+        "S009"
+      ]
+    },
+    {
+      "number": 7,
+      "title": "場上一隊六人",
+      "wiki_pages": [
+        "rules/basics.md",
+        "rules/registration.md"
+      ],
+      "source_ids": [
+        "S008",
+        "S001"
+      ]
+    },
+    {
+      "number": 8,
+      "title": "一次攻防的合作",
+      "wiki_pages": [
+        "rules/basics.md"
+      ],
+      "source_ids": [
+        "S008"
+      ]
+    },
+    {
+      "number": 9,
+      "title": "一局比分：必須領先兩分",
+      "wiki_pages": [
+        "rules/basics.md"
+      ],
+      "source_ids": [
+        "S008"
+      ]
+    },
+    {
+      "number": 10,
+      "title": "一場比賽：先拿三局",
+      "wiki_pages": [
+        "rules/competition.md"
+      ],
+      "source_ids": [
+        "S002",
+        "S008"
+      ]
+    },
+    {
+      "number": 11,
+      "title": "一個賽季的三個階段",
+      "wiki_pages": [
+        "seasons/2026-27.md",
+        "rules/competition.md"
+      ],
+      "source_ids": [
+        "S001",
+        "S002",
+        "S011"
+      ]
+    },
+    {
+      "number": 12,
+      "title": "局數比分與聯盟積分",
+      "wiki_pages": [
+        "rules/competition.md"
+      ],
+      "source_ids": [
+        "S002"
+      ]
+    },
+    {
+      "number": 13,
+      "title": "第一場現場觀賽",
+      "wiki_pages": [
+        "events/guide.md",
+        "teams/index.md"
+      ],
+      "source_ids": [
+        "S010"
+      ]
+    },
+    {
+      "number": 14,
+      "title": "三題小測驗",
+      "wiki_pages": [
+        "teams/index.md",
+        "rules/basics.md",
+        "events/guide.md"
+      ],
+      "source_ids": [
+        "S003",
+        "S004",
+        "S005",
+        "S006",
+        "S007",
+        "S008",
+        "S010"
+      ]
+    },
+    {
+      "number": 15,
+      "title": "你已經能開始看 TPVL",
+      "wiki_pages": [
+        "index.md",
+        "teams/index.md",
+        "rules/basics.md",
+        "events/guide.md"
+      ],
+      "source_ids": [
+        "S003",
+        "S004",
+        "S005",
+        "S006",
+        "S007",
+        "S008",
+        "S010"
+      ]
+    },
+    {
+      "number": 16,
+      "title": "來源：聯盟、規程與球隊",
+      "wiki_pages": [
+        "references.md",
+        "sources/index.md"
+      ],
+      "source_ids": [
+        "S001",
+        "S002",
+        "S003",
+        "S004",
+        "S005",
+        "S006"
+      ]
+    },
+    {
+      "number": 17,
+      "title": "來源：人物、規則與觀賽",
+      "wiki_pages": [
+        "references.md",
+        "sources/index.md",
+        "maintenance/issues.md"
+      ],
+      "source_ids": [
+        "S007",
+        "S008",
+        "S009",
+        "S010",
+        "S011"
+      ]
+    }
+  ],
+  "wiki_input_sha256": {
+    "events/guide.md": "f3b7095bd970282562f2a25877124db7465fcd6cdc12d9bc99ef4973dc842aed",
+    "index.md": "a5a5d8e42f5ed21520f8b18d42a26b018d1bdd21f23dce183d13bef896589c04",
+    "league/about.md": "b4d5061191b22e030d129a8fbe584d9de511998f1b861d483bce9f56212bb67b",
+    "maintenance/issues.md": "576c2ef8bb105f7d77043f7a74a35736656fe8250a8093cb43b814c8fe24bc92",
+    "people/coaches.md": "882a24e7d77b541ad9ccff7b34520c5d53c1e42461f8dae06ca05029d4516197",
+    "people/kao-wei-cheng.md": "18668bd0dd9f94adec8956a1b6f0a58cd3f213d202e00244b9260bed35ad6804",
+    "references.md": "1f12f643b36f53bf2ab338e623fab857588a7278cc09aaa263c083fbe294238b",
+    "rules/basics.md": "2529ee6c968f6681577160d96fe299580d348d7023cb1b9bee5da4d665cedc84",
+    "rules/competition.md": "11f7fee99a6e187da1ebed0c2189c055be8e87c7c18a092e032d6e93bd3a7309",
+    "rules/registration.md": "7bbc666276a77209ba77f8315ff454b518f144baf93d0e17594e3a8bf64c0c59",
+    "seasons/2026-27.md": "8e58e232d75f5b1c6f48b93b5ea691b8bc7375c808bf2ea9027f351ede72b6a1",
+    "sources/S001-charter.md": "a439ef2206314d8deaab6683a85688ec863f6411ba950e916636c2a3d21d8c62",
+    "sources/S002-competition.md": "b6ea43047c3f815543619b4c50f8e8decab9e729605877e5e1d7e35572a5f5cf",
+    "sources/S003-taipei-east-power.md": "dc788e7db12c406d0ad898a2c7f75221c9470cab0779166b1b32f74c5c104a88",
+    "sources/S004-taoyuan-leopards.md": "dbd7dde1b95eb00ba7b84f1dfdaa4adc3e86ee844204d9aa0a3eaf9950d233af",
+    "sources/S005-hsinchu-collie-engineers.md": "8abd9cf9df260c845becabb60d76344eb8b77dc8728ce6bd9daa07d3ed879e96",
+    "sources/S006-taichung-winstreak.md": "ab48ebbfc262313819492364795fccfee9e6daa284fb7d0dd7760023312ca408",
+    "sources/S007-tsg-skyhawks.md": "fa57a0b622e99da3d292d760069b0e0918f0106df2a8b783bc1bf1126a9ec6a0",
+    "sources/S008-volleyball-101.md": "7c9d2012d4fc044ac44a2bbca9ace763dee1196b92e757be9f2acaea85ac4512",
+    "sources/S009-kao-wei-cheng.md": "324b791d0304c1e6b35edb10c58f85fd328a01285e7fa69e5f47272e70062804",
+    "sources/S010-tickets.md": "d988f1fea3e46fcc8a3fef6e4bb66bf1bae46341503a03d8259775039cfe0f40",
+    "sources/S011-season-announcement.md": "490e388601a56c6f342962cd6b19d78ef1ca95b955014d763537f786691a0468",
+    "sources/index.md": "9fb208a066235bad01a13e56c1e236f937e3caa23e62050339ba7884e29199c1",
+    "teams/index.md": "c2f1ebc977971517eacd25d4cc496a2e44f84e544fd13ccfdbce531e514a86bf"
+  },
+  "distribution_note": "GitHub 版本僅將 Wiki 閱讀連結改為本專案的 GitHub Markdown 頁面；教學內容與互動保持已檢查版本。"
+}

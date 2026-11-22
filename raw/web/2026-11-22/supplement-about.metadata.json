@@ -1,0 +1,11 @@
+{
+  "id": "supplement-about",
+  "url": "https://tpvl.tw/about",
+  "resolved_url": "https://tpvl.tw/about",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "retrieved_at_utc": "2026-11-22T11:19:35.187423+00:00",
+  "wiki_as_of_taipei": "2026-11-22",
+  "sha256": "ffbb938fb7e08f702c0386c01aaa4664d3a724763178a011a3b061e55fe418bb",
+  "bytes": 258182
+}
